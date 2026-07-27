@@ -48,5 +48,5 @@ drop at 50/50.
 - README.md: Project overview
 
 ## Mentor
-[Your Mentor Name]
+Dr. Dipashree Pal
 IDEAS TIH, ISI Kolkata
